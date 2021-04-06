@@ -1,16 +1,17 @@
 # reanimated-2-playground
 
-This repo contains a fresh React Native project with preinstalled Reanimated V2
 
-Checkout using the following command to start playing with the new Reanimated API:
+hello lagmouri
+
+Checkout using the following command to start playing with the tinder cards:
 
 ```bash
-> git clone https://github.com/software-mansion-labs/reanimated-2-playground.git
+> git clone https://github.com/NullPointer-hash/Tinder-cards-reanimatedV2.git
 ```
 
 Don't forget to install dependencies:
 ```bash
-> cd reanimated-2-playground && yarn
+> cd reanimated-2-playground && npm install
 ```
 
 If you want to install app on the iOS simulator:
